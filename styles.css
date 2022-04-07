@@ -1,0 +1,46 @@
+.goku {
+     text-align: center;
+     border-radius: 50%;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+body{
+      /* background-color: rgb(204, 207, 16); */
+      background-image:url(https://i5.walmartimages.com/asr/8a2d701a-5b5b-44b7-88a5-2c2e5f8df1ff_1.2ead1ef5d37e9f9993d18c15b6f3854c.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF)
+}
+
+.foes{
+    text-align: center;
+    font-family: monospace;
+    font-size: large;
+  list-style: none;
+} 
+
+.foe-pic{
+    border-radius: 30%;
+    width: 6rem;
+    height: 6rem;
+    
+}
+.main{
+    text-align: center;
+    font-family: fantasy;
+    font-size: x-large;
+
+}
+
+.shenron{
+    text-align: center;
+    font-family: monospace;
+    font-size: large;
+
+
+}
+.skills{
+    text-align: center;
+    font-family: monospace;
+    list-style: none;
+    font-size: large;
+}
