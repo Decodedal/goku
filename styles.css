@@ -73,3 +73,8 @@ body{
     border-width:thin;
     border-color:#ebe834;
 }
+
+audio{
+    color: rgb(212, 226, 9);
+    style="position:relative; left:100px; top:30px
+}
